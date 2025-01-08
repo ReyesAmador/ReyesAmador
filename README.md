@@ -12,6 +12,12 @@ Soy un estudiante de DAM, actualmente en segundo apasionado/a por la programaci�
 - Godot
 - JavaFX
 - Java
+- Spring Boot
+- Theamleaf
+- Bootstrap
+- JavaScript (muy básico)
+- MySQL
+- MongoDB
 
 ### 💬 Conéctemos
 
