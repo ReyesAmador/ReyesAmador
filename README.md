@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Reyes
 
-Soy un estudiante de DAM, actualmente en segundo apasionado/a por la programación y los videojuegos. Me gusta aprender nuevas habilidades en el camino.
+Soy un estudiante de DAM, actualmente en segundo apasionado por la programación y los videojuegos. Me gusta aprender nuevas habilidades en el camino.
 
 ### 🚀 Proyectos Destacados
 
