@@ -7,6 +7,7 @@ Soy un estudiante de DAM, actualmente en segundo apasionado por la programación
 - **Ahorcado**: Pequeño proyecto del juego del ahorcado para jugarlo mediante consola del ordenador.
 - **AnyStock**: Una simple aplicación que se conecta a una base de datos y permite hacer un CRUD, al igual que diferenciar diferentes roles.
 - **Ranare**: Aplicación web orientada al alquiler de coches, aparte de gestionar diferentes roles de usuarios (admin, agente, cliente), permite realizar CRUD, consultar disponibilidad de vehículos y automatizar algún proceso.
+- **Clindat**: Aplicación para Android orientada a la gestión de pacientes e informes médicos. Permite realizar CRUD y generar pdf de informes
 
 ### 🌱 Actualmente Aprendiendo
 
