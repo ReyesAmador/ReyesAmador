@@ -20,6 +20,8 @@ Soy un estudiante de DAM, actualmente en segundo apasionado por la programación
 - JavaScript (muy básico)
 - MySQL
 - MongoDB
+- Android Studio
+- Kotlin
 
 ### 💬 Conéctemos
 
